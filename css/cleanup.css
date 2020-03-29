@@ -16,4 +16,6 @@ body #wall #tag-3.slick.wicked {
   display: none;
 }
 
-.parent . 
+.parent #tag-6 {
+  display: none;
+}
