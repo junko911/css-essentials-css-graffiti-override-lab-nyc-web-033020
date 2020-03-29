@@ -21,5 +21,5 @@ body #wall .parent div:last-child #tag-6 {
 }
 
 body #wall .parent div > #tag-7.slick {
-  
+  display: none;
 }
